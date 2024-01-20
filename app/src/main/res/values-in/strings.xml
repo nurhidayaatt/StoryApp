@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StoryApp</string>
+
+    <string name="image_story">Gambar Story</string>
+    <string name="add_story">Tambah Story</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="description">Deskripsi</string>
+    <string name="upload">Upload</string>
+    <string name="register">Daftar</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="take_photo">Ambil Gambar</string>
+
+    <string name="fail_to_show_camera">Gagal menampilkan kamera</string>
+    <string name="fail_to_take_picture">Gagal mengambil gambar</string>
+
+    <string name="transition_name">name</string>
+    <string name="transition_story">story</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Nama</string>
+    <string name="error_email">Pola email salah</string>
+    <string name="error_password">Password minimal 8 huruf</string>
+
+    <string name="label_story">Story</string>
+    <string name="label_register">Register</string>
+    <string name="label_detail">Detail</string>
+    <string name="label_add_story">Tambah Story</string>
+
+    <string name="dialog_title">Ijin Kamera</string>
+    <string name="dialog_message">Applikasi ini butuh mengakses kamera</string>
+    <string name="dialog_message_permission_permanently_decline">Sepertinya Anda menolak izin kamera secara permanen. Anda dapat pergi ke pengaturan aplikasi untuk mengubahnya</string>
+    <string name="dialog_positive_button_grant_permission">Berikan Ijin</string>
+    <string name="dialog_positive_button_default">Ok</string>
+    <string name="dialog_negative_button_default">Batal</string>
+
+    <string name="map">Peta</string>
+    <string name="retry">Coba lagi</string>
+    <string name="unknown_error_occurred">Terjadi kesalahan yang tidak diketahui</string>
+    <string name="data_not_found">Tidak ada data</string>
+    <string name="add_location_information">Tambahkan informasi lokasi</string>
+</resources>

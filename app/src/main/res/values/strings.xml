@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+
+    <string name="image_story">Image Story</string>
+    <string name="add_story">Add Story</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="description">Description</string>
+    <string name="upload">Upload</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="take_photo">Take Photo</string>
+
+    <string name="fail_to_show_camera">Fail to show camera</string>
+    <string name="fail_to_take_picture">Fail to take picture</string>
+
+    <string name="transition_name">name</string>
+    <string name="transition_story">story</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="error_email">Wrong email pattern</string>
+    <string name="error_password">Password at least 8 letters</string>
+
+    <string name="label_story">Story</string>
+    <string name="label_register">Register</string>
+    <string name="label_detail">Detail</string>
+    <string name="label_add_story">Add Story</string>
+
+    <string name="dialog_title">Camera Permission</string>
+    <string name="dialog_message">This app need access to your camera</string>
+    <string name="dialog_message_permission_permanently_decline">It seems you permanently declined camera permission. You can go to the app settings to grant it</string>
+    <string name="dialog_positive_button_grant_permission">Grant permission</string>
+    <string name="dialog_positive_button_default">Confirm</string>
+    <string name="dialog_negative_button_default">Cancel</string>
+
+    <string name="map">Map</string>
+    <string name="retry">Retry</string>
+    <string name="unknown_error_occurred">Unknown error occurred</string>
+    <string name="data_not_found">Data not found</string>
+    <string name="add_location_information">Add location information</string>
+</resources>
